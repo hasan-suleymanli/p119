@@ -1,0 +1,13 @@
+C:\Users\hasan\source\repos\p119\Streams\bin\Debug\netcoreapp3.1\Streams.exe
+C:\Users\hasan\source\repos\p119\Streams\bin\Debug\netcoreapp3.1\Streams.deps.json
+C:\Users\hasan\source\repos\p119\Streams\bin\Debug\netcoreapp3.1\Streams.runtimeconfig.json
+C:\Users\hasan\source\repos\p119\Streams\bin\Debug\netcoreapp3.1\Streams.runtimeconfig.dev.json
+C:\Users\hasan\source\repos\p119\Streams\bin\Debug\netcoreapp3.1\Streams.dll
+C:\Users\hasan\source\repos\p119\Streams\bin\Debug\netcoreapp3.1\Streams.pdb
+C:\Users\hasan\source\repos\p119\Streams\obj\Debug\netcoreapp3.1\Streams.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\p119\Streams\obj\Debug\netcoreapp3.1\Streams.AssemblyInfo.cs
+C:\Users\hasan\source\repos\p119\Streams\obj\Debug\netcoreapp3.1\Streams.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\p119\Streams\obj\Debug\netcoreapp3.1\Streams.dll
+C:\Users\hasan\source\repos\p119\Streams\obj\Debug\netcoreapp3.1\Streams.pdb
+C:\Users\hasan\source\repos\p119\Streams\obj\Debug\netcoreapp3.1\Streams.genruntimeconfig.cache
+C:\Users\hasan\source\repos\p119\Streams\obj\Debug\netcoreapp3.1\Streams.csprojAssemblyReference.cache

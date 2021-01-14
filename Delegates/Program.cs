@@ -6,7 +6,7 @@ namespace Delegates
     {
         //delegate void Message(int a, string n);
         //delegate int DoNumbers(int a, int b);
-        //delegate bool Filter(int x);
+        //delegate bool Filter(string x);
         //delegate bool Action(int x);
 
         //Predicate - geriye bool qaytarir
@@ -15,6 +15,7 @@ namespace Delegates
 
         static void Main(string[] args)
         {
+            
             //Message msg = null;
             //Action<int, string> action = null;
 
@@ -51,9 +52,10 @@ namespace Delegates
             FilterNumbers(numbers, LessThanZero);
 
             //Lambda expressions
-            //FilterNumbers(numbers, x => x % 2 == 0);
-            //FilterNumbers(numbers, x => x > 0);
-            //FilterNumbers(numbers, x => x < 0);
+            FilterNumbers(numbers, x => x % 2 == 0);
+           
+            FilterNumbers(numbers, x => x > 0);
+            FilterNumbers(numbers, x => x < 0);
 
             //Anonym method
             //FilterNumbers(numbers, delegate (int x)
@@ -75,6 +77,13 @@ namespace Delegates
                 return a + b;
             });
 
+            FilterNumbersWithoutDelegates(numbers, "IsEven");
+            FilterNumbersWithoutDelegates(numbers, "IsOdd");
+        }
+
+        private static bool IsEven(int a)
+        {
+            return a % 2 == 0;
         }
 
         private static int NumbersOperation(int x, int y, Func<int, int, int> func)
@@ -93,32 +102,64 @@ namespace Delegates
             }
         }
 
-        //private static void FilterNumbersIsEven(int[] numbers)
-        //{
-        //    foreach (int number in numbers)
-        //    {
-        //        if (number % 2 == 0)
-        //        {
-        //            Console.WriteLine($"True! Number: {number}");
-        //        }
-        //    }
-        //}
-
-        //private static void FilterNumbersMoreThanZero(int[] numbers)
-        //{
-        //    foreach (int number in numbers)
-        //    {
-        //        if (number > 0)
-        //        {
-        //            Console.WriteLine($"True! Number: {number}");
-        //        }
-        //    }
-        //}
-
-        private static bool IsEven(int x)
+        private static void FilterNumbersWithoutDelegates(int[] numbers, string opName)
         {
-            return x % 2 == 0;
+            foreach (int number in numbers)
+            {
+                if(opName == "IsEven")
+                {
+                    if (number % 2 == 0)
+                    {
+                        Console.WriteLine($"True! Number: {number}");
+                    }
+                } else if (opName == "LessThanZero")
+                {
+                    if (number < 0)
+                    {
+                        Console.WriteLine($"True! Number: {number}");
+                    }
+                }
+                else if (opName == "MoreThanZero")
+                {
+                    if (number > 0)
+                    {
+                        Console.WriteLine($"True! Number: {number}");
+                    }
+                }
+                else if (opName == "IsOdd")
+                {
+                    if (number % 2 > 0)
+                    {
+                        Console.WriteLine($"True! Number: {number}");
+                    }
+                }
+
+            }
         }
+
+        private static void FilterNumbersMoreThanZero(int[] numbers)
+        {
+            foreach (int number in numbers)
+            {
+                if (number > 0)
+                {
+                    Console.WriteLine($"True! Number: {number}");
+                }
+            }
+        }
+
+        private static void FilterNumbersLessThanZero(int[] numbers)
+        {
+            foreach (int number in numbers)
+            {
+                if (number < 0)
+                {
+                    Console.WriteLine($"True! Number: {number}");
+                }
+            }
+        }
+
+        
 
         private static bool MoreThanZero(int x)
         {

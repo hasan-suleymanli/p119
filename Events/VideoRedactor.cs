@@ -19,6 +19,11 @@ namespace Events
 
         public void OnRedacted(Video video)
         {
+            //if(Notify != null)
+            //{
+            //    Notify(this, new VideoArgs { Video = video });
+            //}
+            
             Notify?.Invoke(this, new VideoArgs { Video = video });
         }
     }

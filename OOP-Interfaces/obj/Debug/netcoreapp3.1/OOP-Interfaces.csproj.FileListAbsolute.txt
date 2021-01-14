@@ -1,0 +1,13 @@
+C:\Users\hasan\source\repos\p119\OOP-Interfaces\bin\Debug\netcoreapp3.1\OOP-Interfaces.exe
+C:\Users\hasan\source\repos\p119\OOP-Interfaces\bin\Debug\netcoreapp3.1\OOP-Interfaces.deps.json
+C:\Users\hasan\source\repos\p119\OOP-Interfaces\bin\Debug\netcoreapp3.1\OOP-Interfaces.runtimeconfig.json
+C:\Users\hasan\source\repos\p119\OOP-Interfaces\bin\Debug\netcoreapp3.1\OOP-Interfaces.runtimeconfig.dev.json
+C:\Users\hasan\source\repos\p119\OOP-Interfaces\bin\Debug\netcoreapp3.1\OOP-Interfaces.dll
+C:\Users\hasan\source\repos\p119\OOP-Interfaces\bin\Debug\netcoreapp3.1\OOP-Interfaces.pdb
+C:\Users\hasan\source\repos\p119\OOP-Interfaces\obj\Debug\netcoreapp3.1\OOP-Interfaces.csprojAssemblyReference.cache
+C:\Users\hasan\source\repos\p119\OOP-Interfaces\obj\Debug\netcoreapp3.1\OOP-Interfaces.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\p119\OOP-Interfaces\obj\Debug\netcoreapp3.1\OOP-Interfaces.AssemblyInfo.cs
+C:\Users\hasan\source\repos\p119\OOP-Interfaces\obj\Debug\netcoreapp3.1\OOP-Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\p119\OOP-Interfaces\obj\Debug\netcoreapp3.1\OOP-Interfaces.dll
+C:\Users\hasan\source\repos\p119\OOP-Interfaces\obj\Debug\netcoreapp3.1\OOP-Interfaces.pdb
+C:\Users\hasan\source\repos\p119\OOP-Interfaces\obj\Debug\netcoreapp3.1\OOP-Interfaces.genruntimeconfig.cache
