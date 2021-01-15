@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hasan\\source\\repos\\P119\\Streams\\Streams.csproj": {}
+    "C:\\Users\\hasan\\source\\repos\\P119\\CountryManager\\CountryManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hasan\\source\\repos\\P119\\Streams\\Streams.csproj": {
+    "C:\\Users\\hasan\\source\\repos\\P119\\CountryManager\\CountryManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hasan\\source\\repos\\P119\\Streams\\Streams.csproj",
-        "projectName": "Streams",
-        "projectPath": "C:\\Users\\hasan\\source\\repos\\P119\\Streams\\Streams.csproj",
+        "projectUniqueName": "C:\\Users\\hasan\\source\\repos\\P119\\CountryManager\\CountryManager.csproj",
+        "projectName": "CountryManager",
+        "projectPath": "C:\\Users\\hasan\\source\\repos\\P119\\CountryManager\\CountryManager.csproj",
         "packagesPath": "C:\\Users\\hasan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hasan\\source\\repos\\P119\\Streams\\obj\\",
+        "outputPath": "C:\\Users\\hasan\\source\\repos\\P119\\CountryManager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hasan\\AppData\\Roaming\\NuGet\\NuGet.Config",

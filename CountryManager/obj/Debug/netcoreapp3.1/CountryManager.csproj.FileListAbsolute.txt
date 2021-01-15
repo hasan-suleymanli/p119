@@ -1,0 +1,12 @@
+C:\Users\hasan\source\repos\p119\CountryManager\bin\Debug\netcoreapp3.1\CountryManager.exe
+C:\Users\hasan\source\repos\p119\CountryManager\bin\Debug\netcoreapp3.1\CountryManager.deps.json
+C:\Users\hasan\source\repos\p119\CountryManager\bin\Debug\netcoreapp3.1\CountryManager.runtimeconfig.json
+C:\Users\hasan\source\repos\p119\CountryManager\bin\Debug\netcoreapp3.1\CountryManager.runtimeconfig.dev.json
+C:\Users\hasan\source\repos\p119\CountryManager\bin\Debug\netcoreapp3.1\CountryManager.dll
+C:\Users\hasan\source\repos\p119\CountryManager\bin\Debug\netcoreapp3.1\CountryManager.pdb
+C:\Users\hasan\source\repos\p119\CountryManager\obj\Debug\netcoreapp3.1\CountryManager.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\p119\CountryManager\obj\Debug\netcoreapp3.1\CountryManager.AssemblyInfo.cs
+C:\Users\hasan\source\repos\p119\CountryManager\obj\Debug\netcoreapp3.1\CountryManager.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\p119\CountryManager\obj\Debug\netcoreapp3.1\CountryManager.dll
+C:\Users\hasan\source\repos\p119\CountryManager\obj\Debug\netcoreapp3.1\CountryManager.pdb
+C:\Users\hasan\source\repos\p119\CountryManager\obj\Debug\netcoreapp3.1\CountryManager.genruntimeconfig.cache
